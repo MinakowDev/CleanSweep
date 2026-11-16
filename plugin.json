@@ -1,0 +1,12 @@
+{
+  "ID": "C1E4A5B2-8D3F-4E9A-9B1C-7F2E3D4A5B6C",
+  "ActionKeyword": "clean",
+  "Name": "CleanSweep",
+  "Description": "Быстрая очистка временных файлов, корзины и старых загрузок без открытия проводника",
+  "Author": "CleanSweep",
+  "Version": "1.0.0",
+  "Language": "javascript",
+  "Website": "https://github.com/CleanSweep",
+  "IcoPath": "Images\\app.png",
+  "ExecuteFileName": "main.js"
+}

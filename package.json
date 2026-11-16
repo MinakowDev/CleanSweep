@@ -1,0 +1,10 @@
+{
+  "name": "cleansweep-flow-plugin",
+  "version": "1.0.0",
+  "description": "Flow Launcher plugin for quick cleanup of temp files, Recycle Bin, and old downloads",
+  "main": "main.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
